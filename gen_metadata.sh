@@ -80,3 +80,6 @@ do
         echo $UTTID$'\t'$SPKID$'\t'${TEXT[*]}$'\t'$DURATION >> $METADATA_OUT
     fi
 done
+
+
+echo "completed"
